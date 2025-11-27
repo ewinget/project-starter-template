@@ -1,5 +1,7 @@
 # Project Starter Template
 
+[![Tests](https://github.com/ewinget/project-starter-template/actions/workflows/test.yml/badge.svg)](https://github.com/ewinget/project-starter-template/actions/workflows/test.yml)
+
 Automated testing infrastructure for Next.js/React projects with GitHub Actions and CodeRabbit integration.
 
 ## Quick Start
